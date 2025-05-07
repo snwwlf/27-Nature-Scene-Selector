@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+    padding: 3rem 0 1rem;
+    text-align: center;
+}
+
+#image-section {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    height: auto;
+    padding: 2rem 0 1rem;
+    width: 50%;
+}
+
+select {
+    height: 25px;
+    width: 150px;
+
+}
+
+footer p {
+    font-size: 1rem;
+    padding: 4rem 0 2rem;
+    text-align: center;
+}
